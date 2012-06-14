@@ -9,6 +9,7 @@ namespace twac42
     {
         static void Main(string[] args)
         {
+            AppID id = new AppID(args[0]);
         }
     }
 }
